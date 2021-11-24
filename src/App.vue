@@ -90,6 +90,7 @@ export default {
   //     this.active = true
   //   }
   // },
+
   computed: {
     ...mapState({
       user: state => state.user
